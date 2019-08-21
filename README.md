@@ -40,6 +40,9 @@ White noise machine is very calming. I've found that I sleep better with it as w
 
 We keep an eye on her with the [Nanit](https://amzn.to/31SIXEl). It's bluetooth and WiFi enabled, so you can take it on the road with you when you travel. We're data nerds, so it's great that it also provides motion and sound alerts, temperature and humidity monitoring, and it can even tell you your baby's sleep quality. 
 
+#### Diapering
+Pampers Swaddlers gets the job done. But we've recently taken the bait and are trying out [Dyper](https://getdyper.com/?ref=liztan) which are compostable and it's a subscription service. 
+
 
 **Bold** and _Italic_ and `Code` text
 
