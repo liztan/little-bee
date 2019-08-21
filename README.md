@@ -29,25 +29,18 @@ Highly recommend finding your local parent group (some are called "Hui" meaning 
 #### Transport
 We use the [UPPAbaby Cruz](https://amzn.to/31SON8Y) stroller with the [bassinet](https://amzn.to/2Z7x0xN) and have an [adapter](https://smile.amazon.com/UPPAbaby-Infant-Seat-Adapter-Chicco/dp/B00OC8WJU0/ref=sr_1_2?crid=1CT5TYXURCXG4&keywords=uppababy+chicco+infant+car+seat+adapter&qid=1566330624&s=gateway&sprefix=uppababy+chicco+%2Caps%2C139&sr=8-2) for our [Chicco KeyFit 30 Infant Car Seat](https://amzn.to/2ZhtRqq). The bassinet is very handy because the baby can go from outside to inside without needing to be moved out of the carrier. Also good as an extra sleeping place for baby around the house, like the bathroom when you desperately need a shower.
 
+For carriers we loved the [Sakura Ring Sling](https://sakurabloom.com/collections/shop-all/products/flax) for when she was a newborn. We've since graduated to a sturdier carrier like the Beco and we're experimenting with the [Boba Air Carrier](https://amzn.to/2HiUXaC) that's much more lightweight for our travels.
 
+#### Sleeping
+We were fortunate to have a [Monte Rockwell Bassinet](https://amzn.to/31YlEJx) loaned to us. It's space efficient and very cozy for the baby. One thing we discovered early on was that our baby didn't like the rocking motion, so we wedged small towels under the rocker and voila, a stand-still bassinet. 
 
-- Bulleted
-- List
+Swaddle your baby! We used the swaddle blankets that we got from the hospital for a couple of nights then very quickly switched over to the [Ollie Swaddle](https://amzn.to/31VLzkV). Instead of zippers and little tabs of velcro, it's just one flat piece of fabric with huge pieces of velcro, incredibly easy to manuever. We've used it since she was a new babe and we're still using it at 12 weeks! 
 
-1. Numbered
-2. List
+White noise machine is very calming. I've found that I sleep better with it as well. We have the [Hatch Baby Sound Machine and Night Light](https://amzn.to/31SpjIH). We like that it can be controlled with our phones and in the future we look forward to cueing our kid when it's okay to wake (us) up. 
+
+We keep an eye on her with the [Nanit](https://amzn.to/31SIXEl). It's bluetooth and WiFi enabled, so you can take it on the road with you when you travel. We're data nerds, so it's great that it also provides motion and sound alerts, temperature and humidity monitoring, and it can even tell you your baby's sleep quality. 
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liztan/little-bee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
