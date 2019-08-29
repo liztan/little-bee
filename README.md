@@ -14,12 +14,12 @@ You need less than you think. I wore robes, socks, and mesh underwear provided b
 - **Snacks** like granola bars and nut butter packets.
 - **Broth or any clear fluids** with electrolytes. I made my own broth and brought that to the hospital, it was really good especially after surgery and not having had any food for almost 24 hours.
 - **Clothes** for going home. The baby's out but you'll still look about 6 months pregnant, bring comfortable clothes. 
-- **[Earth Mama Nipple Butter](https://amzn.to/2KWqVue)** You'll either end up down the breastfeeding or pump route, either way, you'll want some nipple butter. 
+- **[Earth Mama Nipple Butter](https://amzn.to/2KWqVue)** If you want to breastfeed, it's nice to have some nipple butter handy. 
 
 #### For baby
 - **Clothes** for going home. Baby will have an umbilical cord stump, bring kimono style clothes that won't bother the stump. Baby won't really need clothes, hospital provides a long sleeve top, swaddle, and hat, but there's something special about going home in new (first!) clothes. 
 - **[Chicco KeyFit 30 Infant Car Seat](https://amzn.to/2ZhtRqq)** Got to have a car seat to leave the hospital.
-- **Formula.** Hopefully you'll have no trouble breastfeeding from the get go. But just in case, if you're like me, it'll be a few days before your milk comes in. We had a jaundice scare because I wasn't producing enough (or really, at all). Unless you are okay with Similac or something similar, I suggest bringing your own formula. We got [Hipp formula](https://www.hipp.com/). 
+- **Formula** Hopefully you'll have no trouble breastfeeding from the get go. But just in case, if you're like me, it'll be a few days before your milk comes in. We had a jaundice scare because I wasn't producing enough (or really, at all). Unless you are okay with Similac or something similar, I suggest bringing your own formula. We got [Hipp formula](https://www.hipp.com/). 
 
 ---
 
@@ -49,10 +49,19 @@ We keep an eye on her with the [Nanit](https://amzn.to/31SIXEl). It's bluetooth 
 
 - [WaterWipes](https://amzn.to/2ZkLLIX)
 
-- HiccaPop Wipe Warmer
-
 - [Skip Hop Travel Changing Mat](https://amzn.to/2HlcjTZ) 
 
+
+#### Feeding
+We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until she suddenly started hating it. We tried Avent and Life Factory bottles. We tried changing the nipple to increase the flow. We realized after a lot of crying that the problem was with the milk and not the bottle. When the music stopped we happened to end up with [Dr. Brown's](https://amzn.to/2MJno5L) bottles. That said, we can't really recommend one bottle over another, the one thing we were grateful for was not buying too many of one kind of bottle, you never know which one you'll end up with. 
+
+[Drying Rack](https://amzn.to/2Uhk82d) You'll need it for all the oddly sized bottle and breast pump parts.
+
+[Bottle Brush](https://amzn.to/2Pkl8nr) All that oddly sized bottle and breast pump parts will need to be cleaned properly.
+
+[Burp Cloths](https://amzn.to/2NF8q05) Get lots of burp cloths! These are soft and inexpensive.
+
+[Seventh Generation Dish Soap](https://amzn.to/2ZxteJd)
 
 **Bold** and _Italic_ and `Code` text
 
