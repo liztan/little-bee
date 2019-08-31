@@ -36,6 +36,8 @@ We were fortunate to have a [Monte Rockwell Bassinet](https://amzn.to/31YlEJx) l
 
 Swaddle your baby! We used the swaddle blankets that we got from the hospital for a couple of nights then very quickly switched over to the [Ollie Swaddle](https://amzn.to/31VLzkV). Instead of zippers and little tabs of velcro, it's just one flat piece of fabric with huge pieces of velcro, incredibly easy to manuever. We've used it since she was a new babe and we're still using it at 12 weeks! 
 
+Our girl broke out of regular swaddles, we use these [Aden and Anais Swaddles](https://amzn.to/2HAUfWj) as lightweight blankets or stroller covers.
+
 White noise machine is very calming. I've found that I sleep better with it as well. We have the [Hatch Baby Sound Machine and Night Light](https://amzn.to/31SpjIH). We like that it can be controlled with our phones and in the future we look forward to cueing our kid when it's okay to wake (us) up. 
 
 We keep an eye on her with the [Nanit](https://amzn.to/31SIXEl). It's bluetooth and WiFi enabled, so you can take it on the road with you when you travel. We're data nerds, so it's great that it also provides motion and sound alerts, temperature and humidity monitoring, and it can even tell you your baby's sleep quality. 
@@ -62,6 +64,58 @@ We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until s
 [Burp Cloths](https://amzn.to/2NF8q05) Get lots of burp cloths! These are soft and inexpensive.
 
 [Seventh Generation Dish Soap](https://amzn.to/2ZxteJd)
+
+#### Breastfeeding
+
+[Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to prop them up. I've got two Boppys! Later on, we use it to prop her up. She's also slept wedged in one for a while (supervised, of course!)
+
+[Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable. I like traveling with this instead of dealing with the electric pump set up.
+
+[Breast Pump](https://amzn.to/2zEjDWD) You get a free breast pump with insurance (Thanks, Obama!) but you're limited to whichever brand and model they cover. I use the Ameda Finesse pump and it's serving me well. I like that it's a closed system meaning the milk doesn't come in contact with the pump and that it's relatively small so that it's easy to lug around. 
+
+For storage, I've used Ameda and [Medela](https://amzn.to/2MOCHKv) ones, never had a problem with freezing and thawing with either.
+
+#### Cleaning
+
+[Stokke Flexi Tub with newborn support](https://amzn.to/2zCYLin) Love that this folds up and doesn't take up a ton of space.
+
+[Wash cloths](https://amzn.to/2LiHbG8)
+
+[Hooded towel](https://amzn.to/2zBo3xB) They lose body heat really quickly, the hood helps to keep them a little warmer.
+
+[Puracy Body Wash and Lotion](https://amzn.to/2NHF6X1) This smells soooo nice.
+
+
+#### Health, etc.
+
+Nail clippers and file. We just used a baby nail file for the first few weeks. You'll see that there's still some skin and stuff covering their nails in the beginning. Now, we use this [nail clipper](https://amzn.to/2ZHO3Si). 
+
+[Nose Aspirator](https://amzn.to/2ZMiMxW) Even with a humidifier going all night, our baby was congested. This aspirator is great, clear out her nose and takes care of the boogers.
+
+[Comb and brush](https://amzn.to/2zHolmG)
+
+[Thermometer](https://amzn.to/2ZHlYur) It's a smart thermometer that beeps the reading to your phone. We love data!
+
+[Mam Pacifiers](https://amzn.to/2LbpEAM) Pacifiers are controversial. When do you give it to them? Should you give it to them?  We introduced the pacifier around week 4 and never looked back. 
+
+#### Clothing
+
+Our late-spring newborn didn't need a lot of clothes. She hung out in a kimono top, a diaper and gets swaddled for most of her first few weeks of life. It's a lot of work to take off and put on clothes, and they don't really get dirty. We got more into changing her once her stump is out and she's sturdier.
+
+[Kimono tops!](https://amzn.to/2zHmXjG) Great for newborns as it does not irritate the umbilical cord stump and for not needing to tangle with pulling a shirt over their heads. 
+
+Don't bother with baby socks, they won't stay on. These [booties](https://amzn.to/2PvjkIs), however, do stay on and are adorable.
+
+#### Play
+
+[BabyBjorn Bouncer](https://amzn.to/2ZDRaL1)
+
+[Play Gym](https://amzn.to/2NGXy1W) 
+
+Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2NI6P9Z) to start with. 
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
