@@ -7,7 +7,7 @@ The first rule of baby club is there are no rules! Every baby is different and f
 ### At the Hospital
 I had a Cesarean birth. The gist of it is: we checked into the hospital at a predetermined time, my baby was delivered within the first 15 minutes of the procedure and I was in and out of the operating room in an hour. The recovery was very rough once the morphine wore off (eek!).
 
-You need less than you think. I wore robes, socks, and mesh underwear provided by the hospital. One thing no one told me was how sweaty you get after giving birth, something to do with all the hormones, so it was nice wearing the hospital stuff that I didn't care about. I recommend bringing:
+You need less than you think at the hospital. I wore robes, socks, and mesh underwear provided by the hospital. One thing no one told me was how sweaty you get after giving birth, something to do with all the hormones, so it was nice wearing the hospital stuff that I didn't care about. I recommend bringing:
 
 #### For you
 - **Toiletries** (toothbrush, toothpaste, face wash, body wash, mouth wash, moisturizers, etc)
@@ -36,22 +36,24 @@ We were fortunate to have a [Monte Rockwell Bassinet](https://amzn.to/31YlEJx) l
 
 Swaddle your baby! We used the swaddle blankets that we got from the hospital for a couple of nights then very quickly switched over to the [Ollie Swaddle](https://amzn.to/31VLzkV). Instead of zippers and little tabs of velcro, it's just one flat piece of fabric with huge pieces of velcro, incredibly easy to manuever. We've used it since she was a new babe and we're still using it at 12 weeks! 
 
-Our girl broke out of regular swaddles, we use these [Aden and Anais Swaddles](https://amzn.to/2HAUfWj) as lightweight blankets or stroller covers.
+Our girl broke out of regular swaddles, but swaddles cloths are really useful. We use these [Aden and Anais Swaddles](https://amzn.to/2HAUfWj) as lightweight blankets and stroller shade/covers.
 
 White noise machine is very calming. I've found that I sleep better with it as well. We have the [Hatch Baby Sound Machine and Night Light](https://amzn.to/31SpjIH). We like that it can be controlled with our phones and in the future we look forward to cueing our kid when it's okay to wake (us) up. 
 
 We keep an eye on her with the [Nanit](https://amzn.to/31SIXEl). It's bluetooth and WiFi enabled, so you can take it on the road with you when you travel. We're data nerds, so it's great that it also provides motion and sound alerts, temperature and humidity monitoring, and it can even tell you your baby's sleep quality. 
 
 #### Diapering
-- Pampers Swaddlers gets the job done. But we've recently taken the bait and are trying out [Dyper](https://getdyper.com/?ref=liztan) which are compostable and it's a subscription service. 
+Pampers Swaddlers gets the job done. But we've recently taken the bait and are trying out [Dyper](https://getdyper.com/?ref=liztan) which are compostable and it's a subscription service. 
 
-- [Hatch Baby Changing Pad and Scale](https://amzn.to/320oFJl) or the [Keekaroo](https://amzn.to/31VGtVH). The scale is nice if you're breastfeeding and want to know how much your baby ate. 
+[Hatch Baby Changing Pad and Scale](https://amzn.to/320oFJl) or the [Keekaroo](https://amzn.to/31VGtVH). The scale is nice if you're breastfeeding and want to know how much your baby ate. 
 
-- [Ubbi Diaper Pail](https://amzn.to/31QrZ9E) 
+[Ubbi Diaper Pail](https://amzn.to/31QrZ9E) 
 
-- [WaterWipes](https://amzn.to/2ZkLLIX)
+[WaterWipes](https://amzn.to/2ZkLLIX)
 
-- [Skip Hop Travel Changing Mat](https://amzn.to/2HlcjTZ) 
+[Skip Hop Travel Changing Mat](https://amzn.to/2HlcjTZ) 
+
+[Hiccapop Wipe Warmer](https://amzn.to/2MYh6PZ) Didn't think we'd be those people but she really hated a cold wipe to the butt in the middle of the night and we hated seeing her cry. At 3-months she's fine now and don't mind a cold wipe but we still think it's a classy touch.
 
 
 #### Feeding
@@ -67,17 +69,17 @@ We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until s
 
 #### Breastfeeding
 
-[Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to prop them up. I've got two Boppys! Later on, we use it to prop her up. She's also slept wedged in one for a while (supervised, of course!)
+[Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to prop them up. I've got two Boppys! Later on, we use it to prop her up. She's also took naps wedged in one for a while (supervised, of course!)
 
 [Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable. I like traveling with this instead of dealing with the electric pump set up.
 
-[Breast Pump](https://amzn.to/2zEjDWD) You get a free breast pump with insurance (Thanks, Obama!) but you're limited to whichever brand and model they cover. I use the Ameda Finesse pump and it's serving me well. I like that it's a closed system meaning the milk doesn't come in contact with the pump and that it's relatively small so that it's easy to lug around. 
+You get a free breast pump with insurance (Thanks, Obama!) but you're limited to whichever brand and model they cover. I use the [Ameda Finesse](https://amzn.to/2zEjDWD) pump and it's serving me well. I like that it's a closed system meaning the milk doesn't come in contact with the pump and that it's relatively small so it's easy to lug around. 
 
 For storage, I've used Ameda and [Medela](https://amzn.to/2MOCHKv) ones, never had a problem with freezing and thawing with either.
 
 #### Cleaning
 
-[Stokke Flexi Tub with newborn support](https://amzn.to/2zCYLin) Love that this folds up and doesn't take up a ton of space.
+[Stokke Flexi Tub with newborn support](https://amzn.to/2zCYLin) It's basically a bucket that folds up. The newborn support is sturdy and holds her up well. Love that this doesn't take up a ton of space when not in use.
 
 [Wash cloths](https://amzn.to/2LiHbG8)
 
@@ -100,23 +102,14 @@ Nail clippers and file. We just used a baby nail file for the first few weeks. Y
 
 #### Clothing
 
-Our late-spring newborn didn't need a lot of clothes. She hung out in a kimono top, a diaper and gets swaddled for most of her first few weeks of life. It's a lot of work to take off and put on clothes, and they don't really get dirty. We got more into changing her once her stump is out and she's sturdier.
-
-[Kimono tops!](https://amzn.to/2zHmXjG) Great for newborns as it does not irritate the umbilical cord stump and for not needing to tangle with pulling a shirt over their heads. 
+Our late-spring newborn didn't need a lot of clothes. She hung out in a [kimono top](https://amzn.to/2zHmXjG), a diaper and gets swaddled for most of her first few weeks of life. It's a lot of work to take off and put on clothes, and they don't really get dirty. We got more into changing her once her umbilical stump is out and she's sturdier.
 
 Don't bother with baby socks, they won't stay on. These [booties](https://amzn.to/2PvjkIs), however, do stay on and are adorable.
 
 #### Play
 
-[BabyBjorn Bouncer](https://amzn.to/2ZDRaL1)
+[BabyBjorn Bouncer](https://amzn.to/2ZDRaL1) She started to be able to sit in it around 3 months. 
 
-[Play Gym](https://amzn.to/2NGXy1W) 
+[Play Gym](https://amzn.to/2NGXy1W) Nice to give them distractions while doing tummy time. It's also amazing when they start to see things and bat at them for the first time. 
 
 Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2NI6P9Z) to start with. 
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
