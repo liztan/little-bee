@@ -69,7 +69,7 @@ We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until s
 
 #### Breastfeeding
 
-[Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to prop them up. I've got two Boppys! Later on, we use it to prop her up. She's also took naps wedged in one for a while (supervised, of course!)
+[Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to level them up to your boobs. Later on, we use it to prop her up. She's also taken naps wedged in it for a while (supervised, of course!)
 
 [Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable. I like traveling with this instead of dealing with the electric pump set up.
 
@@ -81,11 +81,11 @@ For storage, I've used Ameda and [Medela](https://amzn.to/2MOCHKv) ones, never h
 
 [Stokke Flexi Tub with newborn support](https://amzn.to/2zCYLin) It's basically a bucket that folds up. The newborn support is sturdy and holds her up well. Love that this doesn't take up a ton of space when not in use.
 
-[Wash cloths](https://amzn.to/2LiHbG8)
-
 [Hooded towel](https://amzn.to/2zBo3xB) They lose body heat really quickly, the hood helps to keep them a little warmer.
 
 [Puracy Body Wash and Lotion](https://amzn.to/2NHF6X1) This smells soooo nice.
+
+[Wash cloths](https://amzn.to/2LiHbG8) 
 
 
 #### Health, etc.
@@ -94,15 +94,15 @@ Nail clippers and file. We just used a baby nail file for the first few weeks. Y
 
 [Nose Aspirator](https://amzn.to/2ZMiMxW) Even with a humidifier going all night, our baby was congested. This aspirator is great, clear out her nose and takes care of the boogers.
 
-[Comb and brush](https://amzn.to/2zHolmG)
-
 [Thermometer](https://amzn.to/2ZHlYur) It's a smart thermometer that beeps the reading to your phone. We love data!
 
 [Mam Pacifiers](https://amzn.to/2LbpEAM) Pacifiers are controversial. When do you give it to them? Should you give it to them?  We introduced the pacifier around week 4 and never looked back. 
 
+[Comb and brush](https://amzn.to/2zHolmG)
+
 #### Clothing
 
-Our late-spring newborn didn't need a lot of clothes. She hung out in a [kimono top](https://amzn.to/2zHmXjG), a diaper and gets swaddled for most of her first few weeks of life. It's a lot of work to take off and put on clothes, and they don't really get dirty. We got more into changing her once her umbilical stump is out and she's sturdier.
+Our late-spring newborn didn't need a lot of clothes. She hung out in a [kimono top](https://amzn.to/2zHmXjG), a diaper and a swaddle for most of her first few weeks of life. It's a lot of work to take off and put on clothes, plus they don't really get dirty. We got more into changing her later on after the umbilical stump is out and she's sturdier. Also, because blowouts. 
 
 Don't bother with baby socks, they won't stay on. These [booties](https://amzn.to/2PvjkIs), however, do stay on and are adorable.
 
