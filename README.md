@@ -1,3 +1,5 @@
+Readme.
+
 ## Congratulations, you're having a baby!
 
 The first rule of baby club is there are no rules! Every baby is different and for the most part nothing will go according to plan. But here's what worked for us and hopefully it will work for you too. 
