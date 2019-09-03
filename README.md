@@ -69,7 +69,7 @@ We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until s
 
 #### Breastfeeding
 
-[Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to level them up to your boobs. Later on, we use it to prop her up. She's also taken naps wedged in it for a while (supervised, of course!)
+[Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to level them up to your boobs. Later on, we use it as a lounger. She's also taken naps wedged in it for a while (supervised, of course!)
 
 [Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable. I like traveling with this instead of dealing with the electric pump set up.
 
