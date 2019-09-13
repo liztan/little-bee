@@ -108,7 +108,7 @@ Don't bother with baby socks, they won't stay on. These [booties](https://amzn.t
 
 #### Play
 
-[BabyBjorn Bouncer](https://amzn.to/2ZDRaL1) She started to be able to sit in it around 3 months. 
+[BabyBjorn Bouncer](https://amzn.to/2ZDRaL1) She started to be able to sit in it around 3 months. Definitely get the toy bar. 
 
 [Play Gym](https://amzn.to/2NGXy1W) Nice to give them distractions while doing tummy time. It's also amazing when they start to see things and bat at them for the first time. 
 
