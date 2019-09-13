@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Little Bee</title>
+
+  <!-- meta -->
+  <meta charset="utf-8">
+  <meta name="description" content="Recommendations for new parents with new babes.">
+
+  <!-- favicon -->
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+  <!-- css -->
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+
+  <!-- font -->
+  <link href="https://fonts.googleapis.com/css?family=Karla&display=swap" rel="stylesheet"/>
+
+  <!-- javascript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+  <div class="container">
+  <!-- begin eli's work -->
+
+  <div class="markdown-container"></div>
+
+  <script type="text/javascript">
+    var markdownFile = "https://raw.githubusercontent.com/liztan/little-bee/master/index.md";
+    var converter = new showdown.Converter();
+    $.ajax({
+      url: markdownFile,
+      type: "GET",
+      dataType: "text",
+      success: function(results) {
+        var markdownHtml = converter.makeHtml(results);
+        $('.markdown-container').html(markdownHtml);
+      }
+    })
+  </script>
+
+  <!-- end eli's work -->
+
+
+  </div>
+
+
+</body>
+
+</html>
