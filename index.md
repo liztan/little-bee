@@ -116,4 +116,5 @@ Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2
 
 ---
 
+A little project by [Liz Tan](http://liztan.com).
 
