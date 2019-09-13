@@ -113,3 +113,7 @@ Don't bother with baby socks, they won't stay on. These [booties](https://amzn.t
 [Play Gym](https://amzn.to/2NGXy1W) Nice to give them distractions while doing tummy time. It's also amazing when they start to see things and bat at them for the first time. 
 
 Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2NI6P9Z) to start with. 
+
+---
+
+
