@@ -43,7 +43,7 @@ White noise machine is very calming. I've found that I sleep better with it as w
 We keep an eye on her with the [Nanit](https://amzn.to/31SIXEl). It's bluetooth and WiFi enabled, so you can take it on the road with you when you travel. We're data nerds, so it's great that it also provides motion and sound alerts, temperature and humidity monitoring, and it can even tell you your baby's sleep quality. 
 
 #### Diapering
-Pampers Swaddlers gets the job done. But we've recently taken the bait and are trying out [Dyper](https://getdyper.com/?ref=liztan) which are compostable and it's a subscription service. 
+[Pampers Swaddlers](https://amzn.to/2pisxHF) gets the job done. We experimented with [Dyper](https://getdyper.com/?ref=liztan) which are compostable and they offer a subscription service, but we found ourselves back with Pampers. 
 
 [Hatch Baby Changing Pad and Scale](https://amzn.to/320oFJl) or the [Keekaroo](https://amzn.to/31VGtVH). The scale is nice if you're breastfeeding and want to know how much your baby ate. 
 
@@ -57,7 +57,7 @@ Pampers Swaddlers gets the job done. But we've recently taken the bait and are t
 
 
 #### Feeding
-We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until she suddenly started hating it. We tried Avent and Life Factory bottles. We tried changing the nipple to increase the flow. We realized after a lot of crying that the problem was with the milk and not the bottle. When the music stopped we happened to end up with [Dr. Brown's](https://amzn.to/2MJno5L) bottles. That said, we can't really recommend one bottle over another, the one thing we were grateful for was not buying too many of one kind of bottle, you never know which one you'll end up with. 
+We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until she suddenly started hating it. We tried Avent, Life Factory, and Dr. Brown's bottles. We tried changing the nipple to increase the flow. We realized after a lot of crying that the problem was with the milk and not the bottle. That said, we can't really recommend one bottle over another, the one thing we were grateful for was not buying too many of one kind of bottle, you never know which one you'll end up with. 
 
 [Drying Rack](https://amzn.to/2Uhk82d) You'll need it for all the oddly sized bottle and breast pump parts.
 
@@ -71,11 +71,11 @@ We started with [ComoTomo](https://amzn.to/2MJty5S) bottles, it was okay until s
 
 [Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to level them up to your boobs. Later on, we use it as a lounger. She's also taken naps wedged in it for a while (supervised, of course!)
 
-[Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable. I like traveling with this instead of dealing with the electric pump set up.
+[Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable. 
 
 You get a free breast pump with insurance (Thanks, Obama!) but you're limited to whichever brand and model they cover. I use the [Ameda Finesse](https://amzn.to/2zEjDWD) pump and it's serving me well. I like that it's a closed system meaning the milk doesn't come in contact with the pump and that it's relatively small so it's easy to lug around. 
 
-For storage, I've used Ameda and [Medela](https://amzn.to/2MOCHKv) ones, never had a problem with freezing and thawing with either.
+For storage bags, I've used Ameda and [Medela](https://amzn.to/2MOCHKv) ones, never had a problem with freezing and thawing with either.
 
 #### Cleaning
 
