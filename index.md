@@ -115,8 +115,8 @@ Don't bother with baby socks, they won't stay on. These [booties](https://amzn.t
 Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2NI6P9Z) to start with. 
 
 ---
-
+###### Last updated in August 2019 aka when our baby was 3 months old.
 A little project by [Liz Tan](http://liztan.com).
 
-###### Last updated in August 2019 aka when our baby was 3 months old.
+
 
