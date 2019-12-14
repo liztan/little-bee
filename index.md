@@ -118,3 +118,5 @@ Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2
 
 A little project by [Liz Tan](http://liztan.com).
 
+###### Last updated in August 2019 aka when our baby was 3 months old.
+
