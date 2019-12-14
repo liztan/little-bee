@@ -116,7 +116,8 @@ Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2
 
 ---
 ###### Last updated in August 2019 when our baby was 3 months old.
-A little project by [Liz Tan](http://liztan.com).
+
+###### A little project by [Liz Tan](http://liztan.com). Contribute to this project on [GitHub](https://github.com/liztan/little-bee). 
 
 
 
