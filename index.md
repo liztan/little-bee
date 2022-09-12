@@ -88,7 +88,9 @@ For storage bags, never had a problem with freezing and thawing with [Medela](ht
 
 ### **Cleaning**
 
-[Stokke Flexi Tub with newborn support](https://amzn.to/2zCYLin) It's basically a bucket that folds up. The newborn support is sturdy and holds her up well. Love that this doesn't take up a ton of space when not in use.
+[Stokke Flexi Tub with newborn support](https://amzn.to/2zCYLin) It's basically a bucket that folds up. The newborn support is sturdy and holds thebaby up well. Love that this doesn't take up a ton of space when not in use.
+
+[Baby Bathtub Seat](https://a.co/24y5Jmt) We didn't use this with our first but our second baby was very wiggly once he was out of the newborn stage. This seat was helpful to keep him in place. 
 
 [Hooded towel](https://amzn.to/2zBo3xB) They lose body heat really quickly, the hood helps to keep them a little warmer.
 
