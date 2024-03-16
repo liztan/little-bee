@@ -30,9 +30,9 @@ Highly recommend finding your local parent group (Facebook, unfortunately, is a 
 
 ### **Transport**
 
-We’ve gone full Uppababy, continuing with the [UPPAbaby Cruz](https://amzn.to/31SON8Y) stroller frame, **[Mesa carseat](https://uppababy.com/mesa/)**, and the [bassinet](https://amzn.to/2Z7x0xN). We also got the piggback ride-a-long board extension to accommodate two kids. 
+We’ve gone full Uppababy, continuing with the [UPPAbaby Cruz](https://amzn.to/31SON8Y) stroller frame, [Mesa carseat](https://uppababy.com/mesa/), and the [bassinet](https://amzn.to/2Z7x0xN). We also got the piggback ride-a-long board extension to accommodate two kids. 
 
-For carriers, we have the **[Beco Gemini](https://becobabycarrier.com/collections/beco-gemini)**. It’s sturdy and can handle a newborn up to a 2-year-old (depending on their size). 
+For carriers, we have the [Beco Gemini](https://becobabycarrier.com/collections/beco-gemini). It’s sturdy and can handle a newborn up to a 2-year-old (depending on their size). 
 
 We still have the [Boba Air Carrier](https://amzn.to/2HiUXaC) that's much more lightweight for travels. Saves a ton of space because it packs up into itself. We did 1.5 months in SE Asia with a 4 month old in this!
 
