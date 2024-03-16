@@ -64,7 +64,7 @@ We keep an eye on the baby with [Nanit](https://amzn.to/31SIXEl). It's bluetoot
 
 ### **Feeding**
 
-[**ComoTomo**](https://uppababy.com/mesa/) bottles worked for us. 
+[ComoTomo](https://uppababy.com/mesa/) bottles worked for us. 
 
 [Drying Rack](https://amzn.to/2Uhk82d) You'll need it for all the oddly sized bottle and breast pump parts.
 
