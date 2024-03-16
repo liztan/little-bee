@@ -1,6 +1,7 @@
 body {
   background-color: #FFF;
-  font-family: "Karla", sans-serif;
+  font-family: "Open Sans
+"", sans-serif;
 }
 
 .container {
@@ -15,30 +16,30 @@ footer {
 }
 
 h1 {
-  font-size: 36px;
-  line-height: 40px;
+  font-size: 24px;
+  line-height: 36px;
 }
 
 h2 {
-  font-size: 36px;
-  line-height: 40px;
+  font-size: 24px;
+  line-height: 36px;
 }
 
 h3 {
-  font-size: 28px;
+  font-size: 20px;
   margin-top: 50px;
   margin-bottom: 0px;
 }
 
 h4 {
-  font-size: 24px;
+  font-size: 18px;
   margin-top: 50px;
   margin-bottom: 0px;
 }
 
 p {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 a {
@@ -63,8 +64,8 @@ a:active {
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 
