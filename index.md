@@ -127,6 +127,8 @@ Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/
 
 ---
 
+### **Notes**
+
 Make a list of your own on [GitHub](https://github.com/liztan/little-bee). 
 
 A little project by [Liz Tan](http://liztan.com) • Last updated in March 2024 when our second baby was 26 months old and not really a baby anymore!  
