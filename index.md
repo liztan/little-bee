@@ -2,7 +2,7 @@
 
 The first rule of baby club is there are no rules! Every baby is different and for the most part nothing will go according to plan. But here's what worked for us and hopefully it will work for you too.
 
-### **At the Hospital**
+### **At the hospital**
 
 I had a Cesarean birth (again!). The gist of it is: we checked into the hospital at a predetermined time, my baby was delivered within the first 15 minutes of the procedure and I was in and out of the operating room in an hour or so. The first 12 hours post-op was hard the first time because I didn’t get the right dosage of pain meds, and the second time because of some connection between abdominal surgery and the back of my neck feeling intense pain. But everything did resolve and I was up and walking in that same time period. 
 
@@ -30,11 +30,11 @@ Highly recommend finding your local parent group (Facebook, unfortunately, is a 
 
 ### **Transport**
 
-We’ve gone full Uppababy, continuing with the [UPPAbaby Cruz](https://amzn.to/31SON8Y) stroller frame, **[Mesa carseat](https://uppababy.com/mesa/)**, and the [bassinet](https://amzn.to/2Z7x0xN). 
+We’ve gone full Uppababy, continuing with the [UPPAbaby Cruz](https://amzn.to/31SON8Y) stroller frame, **[Mesa carseat](https://uppababy.com/mesa/)**, and the [bassinet](https://amzn.to/2Z7x0xN). We also got the piggback ride-a-long board extension to accommodate two kids. 
 
 For carriers, we have the **[Beco Gemini](https://becobabycarrier.com/collections/beco-gemini)**. It’s sturdy and can handle a newborn up to a 2-year-old (depending on their size). 
 
-We still have the [Boba Air Carrier](https://amzn.to/2HiUXaC) that's much more lightweight for travels. We did 1.5 months in SE Asia with a 4 month old in this!
+We still have the [Boba Air Carrier](https://amzn.to/2HiUXaC) that's much more lightweight for travels. Saves a ton of space because it packs up into itself. We did 1.5 months in SE Asia with a 4 month old in this!
 
 ### **Sleeping**
 
@@ -58,7 +58,7 @@ We keep an eye on the baby with [Nanit](https://amzn.to/31SIXEl). It's bluetoot
 
 [WaterWipes](https://amzn.to/2ZkLLIX)
 
-[Skip Hop Travel Changing Mat](https://amzn.to/2HlcjTZ)
+[Storq's quick change diaper bag](https://storq.com/products/clutch-diaper-change-bag) is both functional and very cool looking.
 
 [Hiccapop Wipe Warmer](https://amzn.to/2MYh6PZ) It makes the middle of the night diaper changes less stressful. 
 
@@ -78,9 +78,7 @@ We keep an eye on the baby with [Nanit](https://amzn.to/31SIXEl). It's bluetoot
 
 [Boppy Breastfeeding Pillow](https://amzn.to/2zBXSa2) When baby is small, it's good to have a pillow to level them up to your boobs. Later on, we use it as a lounger. She's also taken naps wedged in it for a while (supervised, of course!)
 
-[Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable.
-
-With my second baby, I mostly used this to help clear clogs. Warm water + Epsom salt, suction it to the boob and massage the clog out. I had clogs almost every other week for 4 months. 
+[Haakaa Manual Breast Pump](https://amzn.to/2NJc8G0) This thing is amazing! It expresses milk by suction, you just pop this sucker on and go about your business. It's small, lightweight, and portable. With my second baby, I mostly used this to help clear clogs. Warm water + Epsom salt, suction it to the boob and massage the clog out. I had clogs almost every other week for 4 months. 
 
 For pumping, I got the [Elvie Stride](https://www.elvie.com/en-us/shop/elvie-stride). It’s the “upgrade” option with insurance, which means I paid $70+ with FSA funds for it. I like that it’s a cup and doesn’t require special bras and weird flanges protruding from my body. The main pump component can be clipped on which is so handy (or shall I say, hands-free!) when dealing with a newborn and a toddler. 
 
@@ -92,7 +90,7 @@ For storage bags, never had a problem with freezing and thawing with [Medela](ht
 
 [Baby Bathtub Seat](https://a.co/24y5Jmt) We didn't use this with our first but our second baby was very wiggly once he was out of the newborn stage. This seat was helpful to keep him in place. 
 
-[Hooded towel](https://amzn.to/2zBo3xB) They lose body heat really quickly, the hood helps to keep them a little warmer.
+[Hooded towel](https://pehr.com/collections/petit-hooded-towel) They lose body heat really quickly, the hood helps to keep them a little warmer. These Pehr hooded towels are surprisingly cozy.
 
 [Puracy Body Wash and Lotion](https://amzn.to/2NHF6X1) This smells soooo nice.
 
@@ -114,6 +112,8 @@ Nail clippers and file. We just used a baby nail file for the first few weeks. Y
 
 Our winter baby lived in bodysuits. Loved the Primary footed suits. Rotated through 5 of them until he grew out of them. 
 
+This [Mamaowl merino wool body suit](https://mamaowl.net/en-us/collections/baby-wool-outerwear/products/organic-merino-wool-fleece-suit-slate) was a real hit. Baby was comfortable in it when we'd go out whether in a carrier or in the stroller, and when we'd get home, he'd snooze comfortably in it (unbuttoned). 
+
 Don't bother with baby socks, they won't stay on. These [booties](https://amzn.to/2PvjkIs), however, do stay on and are adorable.
 
 ### **Play**
@@ -124,13 +124,12 @@ Lovevery [Play Gym](https://amzn.to/2NGXy1W) Nice to give them distractions whi
 
 Books! Read to your baby, they love it. Here's a [classic one](https://amzn.to/2NI6P9Z) to start with.
 
-###### Last updated in September 2022 when our second baby was 7 months old. 
 
 ---
 
 Make a list of your own on [GitHub](https://github.com/liztan/little-bee). 
 
-###### A little project by [Liz Tan](http://liztan.com). 
+###### A little project by [Liz Tan](http://liztan.com) • Last updated in March 2024 when our second baby was 26 months old and not really a baby anymore!  
 
 
 
